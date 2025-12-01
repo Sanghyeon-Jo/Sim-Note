@@ -65,10 +65,10 @@ npm run dev
 ## 📝 Development Log (Velog)
 이 프로젝트의 기획부터 개발, 트러블 슈팅까지의 전 과정은 기술 블로그에 기록되어 있습니다.
 
-* [#1 기획 및 백엔드 세팅](https://velog.io/@1stquarter/...)
-* [#2 FastAPI 코드 해부하기](https://velog.io/@1stquarter/...)
-* [#3 프론트엔드 연동과 CORS 해결](https://velog.io/@1stquarter/...)
+* [#1 기획 및 백엔드 세팅](https://velog.io/@1stquarter/%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%AC%EB%A0%88%EC%9D%B4%EC%8B%B1-%EA%B8%B0%EB%A1%9D%EC%9E%A5-Sim-Note-%EA%B0%9C%EB%B0%9C%EA%B8%B0-1-%EA%B8%B0%ED%9A%8D-%EB%B0%8F-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%84%B8%ED%8C%85)
+* [#2 FastAPI 코드 해부하기](https://velog.io/@1stquarter/%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%AC%EB%A0%88%EC%9D%B4%EC%8B%B1-%EA%B8%B0%EB%A1%9D%EC%9E%A5-Sim-Note-%EA%B0%9C%EB%B0%9C%EA%B8%B0-2-FastAPI-%EC%BD%94%EB%93%9C-%EB%9C%AF%EC%96%B4%EB%B3%B4%EA%B8%B0-CORS-Pydantic-Decorator)
+* [#3 프론트엔드 연동과 CORS 해결](https://velog.io/@1stquarter/%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%AC%EB%A0%88%EC%9D%B4%EC%8B%B1-%EA%B8%B0%EB%A1%9D%EC%9E%A5-Sim-Note-%EA%B0%9C%EB%B0%9C%EA%B8%B0-3-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%97%B0%EB%8F%99%EA%B3%BC-CORS-%EC%97%90%EB%9F%AC)
 
 ---
 
-Created by **[본인이름/닉네임]**
+Created by **[Sanghyeon Jo]**
