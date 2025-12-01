@@ -12,7 +12,7 @@
 데이터 분석가를 목표로 하는 개발자가 **백엔드(FastAPI)와 프론트엔드(Next.js)의 완전한 통합 과정**을 학습하기 위해 제작한 토이 프로젝트입니다.
 
 ### 📸 Screenshot
-<img src="C:\Users\josan\Sim-Note\image.png" alt="Sim-Note Main Screen" width="100%">
+<img src="image.png" alt="Sim-Note Main Screen" width="100%">
 
 ---
 
